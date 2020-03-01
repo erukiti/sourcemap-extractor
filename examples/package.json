@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "examples",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "typescript": "^3.3.3",
+    "webpack": "^4.29.4",
+    "webpack-cli": "^3.2.3"
+  }
+}

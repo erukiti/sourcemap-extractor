@@ -1,0 +1,17 @@
+{
+  "name": "source-map-extractor",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/mkdirp": "^1.0.0",
+    "@types/node": "^13.7.7",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "mkdirp": "^1.0.3"
+  }
+}
